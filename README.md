@@ -25,6 +25,10 @@ All the food data is fetched from the free backend API at [yummie.glitch.me](htt
 
 https://github.com/user-attachments/assets/0e49bde9-5c85-4d80-ba6a-dfae114df5e8
 
+## App walkthrough
+
+https://drive.google.com/file/d/1KcwPuDLnI8EaqgJDa9ZjFdS3dh42R7bp/view?usp=sharing
+
 
 ## Installation
 
